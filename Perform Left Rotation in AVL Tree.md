@@ -3,7 +3,7 @@
 ## AIM:
 To write a Python function `def leftRotate(self, z):` to perform the left rotation operation in an AVL Tree and insert the element '7' into it.
 
----   
+---
 
 ## ALGORITHM:
 
